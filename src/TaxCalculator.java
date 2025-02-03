@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 // Initializes main program. //
-public class Main {
+public class TaxCalculator {
     public static void main(String[] args) {
 
         // Initializing variables for calculation. //
